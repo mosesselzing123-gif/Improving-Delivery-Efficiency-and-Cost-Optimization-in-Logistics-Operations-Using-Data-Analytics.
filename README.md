@@ -1,2 +1,2 @@
 # Improving-Delivery-Efficiency-and-Cost-Optimization-in-Logistics-Operations-Using-Data-Analytics.
-This project analyzes logistics operations data using SQL and Power BI to improve delivery performance and reduce operational costs. The findings revealed recurring delivery delays on certain routes, high fuel costs, and uneven fleet utilization. The help in route optimization, preventive maintenance, and real-time dashboard monitoring.
+This project analyzes logistics operations data using SQL and Power BI to improve delivery performance and reduce operational costs. The findings revealed recurring delivery delays on certain routes, high fuel costs, and uneven fleet utilization. This help in route optimization, preventive maintenance, and real-time dashboard monitoring.
