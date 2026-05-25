@@ -10,7 +10,7 @@ iv.	Identify causes of delivery delays
 
 v.	Provide data-driven recommendations
 
-4. Statement of Problem
+2. Statement of Problem
     
 i.	Monitor delivery performance effectively
 
@@ -22,7 +22,7 @@ iv.	Optimize route efficiency
 
 v.	Manager need better decision-making tools.
 
-6. Significance of the Study
+3. Significance of the Study
    
 i.	Improve delivery performance
 
@@ -34,7 +34,7 @@ v.	Support data-driven decision-making
 
 v.	Support data-driven decision-making
 
-8. Tools Used
+4. Tools Used
    
 i. SQL
 Used to query, join, and summarize data. SQL was also used to validate KPIs such as on-time delivery rate and fuel cost.
@@ -45,7 +45,7 @@ Used to build the data model, create DAX measures, and design interactive dashbo
 iii. Microsoft Excel
 Used for preliminary inspection, quick cleaning, and verification of CSV files before import.
 
-10.  METHODOLOGY
+5.  METHODOLOGY
     
 i. Data Source
 The data used for this study was obtained from a logistics operations database containing several related tables.
@@ -59,7 +59,7 @@ To support efficient analysis, the data was organized using a star schema model.
 iv. Key Performance Indicators (KPIs)
 Six KPIs were calculated to assess logistics performance.
 
-12. FINDINGS
+6. FINDINGS
     
 •	Inefficient routing
 
@@ -67,7 +67,7 @@ Six KPIs were calculated to assess logistics performance.
 
 •	Rising fuel prices
 
-14.	Recommendations
+7.	Recommendations
 Based on the findings of this study, the following recommendations are proposed to improve logistics performance and cost efficiency.
 Optimize Routes with Frequent Delays
 Routes that consistently experience late deliveries should be reviewed and redesigned. Management should analyze travel distances, traffic conditions, customer waiting times, and road quality to determine the most efficient routes and realistic delivery schedules.
