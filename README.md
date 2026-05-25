@@ -23,37 +23,51 @@ iv.	Optimize route efficiency
 v.	Manager need better decision-making tools.
 
 6. Significance of the Study
+   
 i.	Improve delivery performance
+
 ii.	Reduce operational costs
+
 iv.	Enhance resource utilization
-v.	Support data-driven decision-making
+
 v.	Support data-driven decision-making
 
-7. Tools Used
+v.	Support data-driven decision-making
+
+8. Tools Used
+   
 i. SQL
 Used to query, join, and summarize data. SQL was also used to validate KPIs such as on-time delivery rate and fuel cost.
+
 ii. Power BI
 Used to build the data model, create DAX measures, and design interactive dashboards.
+
 iii. Microsoft Excel
 Used for preliminary inspection, quick cleaning, and verification of CSV files before import.
 
-8.  METHODOLOGY
+10.  METHODOLOGY
+    
 i. Data Source
 The data used for this study was obtained from a logistics operations database containing several related tables.
 Each table stores a different aspect of the company’s daily activities, and together they provide a complete view of logistics performance.
+
 ii. Data Preparation
 Before analysis, the data was cleaned and transformed to ensure consistency and accuracy.
+
 iii. Data Modeling
 To support efficient analysis, the data was organized using a star schema model.
 iv. Key Performance Indicators (KPIs)
 Six KPIs were calculated to assess logistics performance.
 
-9. FINDINGS
+12. FINDINGS
+    
 •	Inefficient routing
+
 •	Poor vehicle condition
+
 •	Rising fuel prices
 
-10.	Recommendations
+14.	Recommendations
 Based on the findings of this study, the following recommendations are proposed to improve logistics performance and cost efficiency.
 Optimize Routes with Frequent Delays
 Routes that consistently experience late deliveries should be reviewed and redesigned. Management should analyze travel distances, traffic conditions, customer waiting times, and road quality to determine the most efficient routes and realistic delivery schedules.
