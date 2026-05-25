@@ -6,37 +6,36 @@ iv.	Identify causes of delivery delays
 v.	Provide data-driven recommendations
 
 2. Statement of Problem 
-1.	Monitor delivery performance effectively
-2.	Control rising transportation and fuel costs
-3.	Identify underperforming drivers and vehicles
-4.	Optimize route efficiency
-5.	Manager need better decision-making tools.
+i.	Monitor delivery performance effectively
+ii.	Control rising transportation and fuel costs
+iii.	Identify underperforming drivers and vehicles
+iv.	Optimize route efficiency
+v.	Manager need better decision-making tools.
 
 3. Significance of the Study
-This study provides insights that can help logistics companies:
-1.	Improve delivery performance
-2.	Reduce operational costs
-3.	Enhance resource utilization
-4.	Support data-driven decision-making
-5.	Support data-driven decision-making
+i.	Improve delivery performance
+ii.	Reduce operational costs
+iv.	Enhance resource utilization
+v.	Support data-driven decision-making
+v.	Support data-driven decision-making
 
 4. Tools Used
-1. SQL
+i. SQL
 Used to query, join, and summarize data. SQL was also used to validate KPIs such as on-time delivery rate and fuel cost.
-2. Power BI
+ii. Power BI
 Used to build the data model, create DAX measures, and design interactive dashboards.
-3. Microsoft Excel
+iii. Microsoft Excel
 Used for preliminary inspection, quick cleaning, and verification of CSV files before import.
 
 5.  METHODOLOGY
-1. Data Source
+i. Data Source
 The data used for this study was obtained from a logistics operations database containing several related tables.
 Each table stores a different aspect of the company’s daily activities, and together they provide a complete view of logistics performance.
-2. Data Preparation
+ii. Data Preparation
 Before analysis, the data was cleaned and transformed to ensure consistency and accuracy.
-3. Data Modeling
+iii. Data Modeling
 To support efficient analysis, the data was organized using a star schema model.
-4. Key Performance Indicators (KPIs)
+iv. Key Performance Indicators (KPIs)
 Six KPIs were calculated to assess logistics performance.
 
 6. FINDINGS
