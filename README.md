@@ -5,8 +5,7 @@ iii.	Assess driver and truck efficiency
 iv.	Identify causes of delivery delays
 v.	Provide data-driven recommendations
 
-2. Problem Statement
-Despite having access to operational data, many logistics systems fail to:
+2. Statement of Problem 
 1.	Monitor delivery performance effectively
 2.	Control rising transportation and fuel costs
 3.	Identify underperforming drivers and vehicles
